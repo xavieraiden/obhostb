@@ -1,0 +1,4 @@
+- [ ] Take Tablet ⏫ 🔁 every day 🛫 2023-09-03 ⏳ 2023-09-03
+- [ ] Record Wake time every day
+- [ ] Record Sleep time every day
+- [ ] 
