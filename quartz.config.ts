@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     baseUrl: "xavieraiden.github.io/obhostb/",
     ignorePatterns: ["private", "templates", ".obsidian"],
