@@ -1,5 +1,5 @@
----
-Title: Index
----
-# This is the main index for everything
-## Things are listed in no particular order
+# This is the Main Index which simply points to the other sub indexes
+
+[[Weapons Index]] Stuff I wrote about various weapon systems
+
+[[Vedenia Index]] Stuff about my worldbuilding
