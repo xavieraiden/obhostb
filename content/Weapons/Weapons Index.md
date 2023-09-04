@@ -10,6 +10,3 @@ sticker: lucide//indent
 | [[EFPs]]           | Explosives               |
 | [[Railguns]]       | Electromagnetic Weapons  |
 | [[Coilguns]]       | Electromagnetic Weapons |
-
-
-![[Untitled.canvas]]
