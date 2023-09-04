@@ -10,6 +10,7 @@ EFPs Or Explosively Formed Penetrators are a type of warhead that propel a small
 An EFP operates differently to a [Shaped charge](Shaped%20Charges.md), though with the same end goal of killing whatever it's pointed at. As opposed to what was described [above](EFPs#What%20Are%20They), a shaped charge uses  [Explosive Lensing](https://en.wikipedia.org/wiki/Explosive_lens) to create a hypervelocity jet of metal plasma made from whatever metal liner was used (generally copper) that punches through armour and has a devastating effect on the inside.
 ### EFPs
 While shaped charges use [Explosive Lensing](https://en.wikipedia.org/wiki/Explosive_lens) to create their projectile, EFPs take a more direct approach in that they use the explosive force to just shoot the metal plate like a gun would all while in the process deforming the metal plate into a slug.
+
 ![[Explosively_formed_penetrator.gif]]![[Explosively_formed_penetrator_animate.gif]]
 
 # Nonstandard EFPs

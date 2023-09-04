@@ -1873,8 +1873,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 73,
-			"versionNonce": 736415123,
+			"version": 75,
+			"versionNonce": 941126323,
 			"isDeleted": false,
 			"id": "tUGvEmcPEA8IFvXr4QYNr",
 			"fillStyle": "hachure",
@@ -1896,7 +1896,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085646,
+			"updated": 1693804707701,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1925,8 +1925,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 66,
-			"versionNonce": 694600915,
+			"version": 68,
+			"versionNonce": 1284219379,
 			"isDeleted": false,
 			"id": "8ROrd5Jzy6bO5F08RzSHm",
 			"fillStyle": "hachure",
@@ -1948,7 +1948,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085647,
+			"updated": 1693804707701,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2068,8 +2068,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 58,
-			"versionNonce": 633596947,
+			"version": 60,
+			"versionNonce": 1324089651,
 			"isDeleted": false,
 			"id": "lTqMKnOUF6J_VaT9tCCFX",
 			"fillStyle": "hachure",
@@ -2091,7 +2091,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085650,
+			"updated": 1693804707705,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2120,8 +2120,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 163,
-			"versionNonce": 670057299,
+			"version": 165,
+			"versionNonce": 699240563,
 			"isDeleted": false,
 			"id": "xhrdumjGJ1O6OEjOZCxBw",
 			"fillStyle": "hachure",
@@ -2143,7 +2143,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085652,
+			"updated": 1693804707705,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2172,8 +2172,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 88,
-			"versionNonce": 165661331,
+			"version": 90,
+			"versionNonce": 977555379,
 			"isDeleted": false,
 			"id": "G2zZ1Ygvlfe-OBlu0EScb",
 			"fillStyle": "hachure",
@@ -2195,7 +2195,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085653,
+			"updated": 1693804707705,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2224,8 +2224,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 458,
-			"versionNonce": 1330577459,
+			"version": 459,
+			"versionNonce": 1193664851,
 			"isDeleted": false,
 			"id": "PnuVeLWL-wDs6ntf49EJ7",
 			"fillStyle": "hachure",
@@ -2247,7 +2247,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085653,
+			"updated": 1693804707706,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2280,8 +2280,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 248,
-			"versionNonce": 948339155,
+			"version": 249,
+			"versionNonce": 287588083,
 			"isDeleted": false,
 			"id": "4p1UTaL2AhHV7MlEK46lt",
 			"fillStyle": "hachure",
@@ -2303,7 +2303,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085654,
+			"updated": 1693804707706,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2411,8 +2411,8 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		},
 		{
 			"type": "arrow",
-			"version": 1105,
-			"versionNonce": 1943562515,
+			"version": 1107,
+			"versionNonce": 834756147,
 			"isDeleted": false,
 			"id": "YgF_1uBTaJw8r5Ud2hRNR",
 			"fillStyle": "hachure",
@@ -2434,7 +2434,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1693785085658,
+			"updated": 1693804707710,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2493,6 +2493,50 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 				1,
 				1
 			]
+		},
+		{
+			"id": "PlqIrJcinA-XnuPJer0fB",
+			"type": "arrow",
+			"x": 108.67195476783013,
+			"y": -278.68094022008825,
+			"width": 458.68255193831124,
+			"height": 40.89762465320052,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 970094707,
+			"version": 46,
+			"versionNonce": 148338205,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1693804733269,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					458.68255193831124,
+					-40.89762465320052
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -2501,7 +2545,7 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 2,
+		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
@@ -2510,10 +2554,10 @@ b1447a2188cddc45a18bafbc8cfd9e84514ba040: [[Charcoal7.png]]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 967.7486966098118,
-		"scrollY": 297.89372332652226,
+		"scrollX": 941.442122885384,
+		"scrollY": 561.2305694091913,
 		"zoom": {
-			"value": 0.6000000000000001
+			"value": 0.6392854035824076
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
