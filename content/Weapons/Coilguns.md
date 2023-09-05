@@ -1,5 +1,7 @@
 ---
-tags: Weapons
+tags:
+  - Weapons
+  - EMWeapons
 sticker: lucide//cloud-lightning
 ---
 # What are they?

@@ -1,19 +1,9 @@
 ---
 tags: WorldBuilding, Magic
 ---
-# The index for my thoughts on realistic magic
+This magic system is based upon the manipulation of real scientific principles, some people in this world are born "Magically Gifted" with the ability to perceive and to a small extent manipulate [Electromagnetic](https://en.wikipedia.org/wiki/Electromagnetism) phenomena (Light, Magnetic Fields, Electricity, Charged Particles ETC). Magically gifted individuals in this world might take lessons, or attend a magic university of sorts and specialise into further fields, Listed below are the different fields.
 
+# As of now only one has been written.
 
-###### I've always found it weird how in fiction, magic is always quite shallow. Someone would recite a spell and a fireball would appear. As of now I'm going to write down my thoughts on how magic would actually operate given real laws of physics.
+[[Manipulation of Quantum Dots|Quantum Dot Mages]] specialize in the manipulation of Quantum Dots, as the title suggests.
 
-In the future this will turn into my own magic system, but for the moment I am just writing about already prevalent magic in fiction.
-
-| Magic Type/Element     | Details         |
-| ---------------------- | --------------- |
-| [[Fire Magic]]         |                 |
-| [[Electrical Magic]]   | To Be Completed |
-| [[Light Magic]]        | To Be Completed |
-| [[Earth Magic ]]       | To Be Completed |
-| [[Dark Magic]]         | To Be Completed |
-| [[Life/Healing Magic]] | To Be Completed | 
-|                        |                 |

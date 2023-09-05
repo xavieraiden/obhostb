@@ -1,5 +1,5 @@
 ---
-tags: Weapons
+tags: Weapons, Explosives
 sticker: lucide//bomb
 ---
 # What are they?

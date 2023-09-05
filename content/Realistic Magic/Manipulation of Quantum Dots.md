@@ -1,44 +1,58 @@
 ---
 tags: WorldBuilding, Magic
 ---
-## What Exactly Are [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot)?
+This is more of a scaffold, I will go more into depth in how Quantum Dots are used as well as some of the gadgetry that Quantum Dot Mages use.
 
-### The Basics of [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot)
+## What Exactly Are [Quantum Dots](https://en.wikipedia.org/wiki/Quantum_dot)?
 
-[quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) are nanometre-sized [semiconductor](https://en.wikipedia.org/wiki/Semiconductor) particles that have unique [quantum mechanical properties](https://en.wikipedia.org/wiki/Quantum_mechanics). They function as tiny "boxes" that can confine and manipulate [electrons](https://en.wikipedia.org/wiki/Electron) in specific, quantized energy levels. Due to their small size, they are subject to the principles of [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics).
+### The Fundamentals of [Quantum Dots](https://en.wikipedia.org/wiki/Quantum_dot)
+
+[Quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) are nanometre-sized [semiconductor](https://en.wikipedia.org/wiki/Semiconductor) particles that exhibit unique [quantum mechanical properties](https://en.wikipedia.org/wiki/Quantum_mechanics). These particles serve as tiny "containers" that can confine and control [electrons](https://en.wikipedia.org/wiki/Electron) in specific, quantized energy states, thanks to the principles of [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics).
 
 ### Interaction with Energy
 
-[quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) can absorb various forms of energy, such as [photons](https://en.wikipedia.org/wiki/Photon) or[thermal energy](https://en.wikipedia.org/wiki/Thermal_energy). When they absorb this energy, their electrons move to higher energy levels. Eventually, these electrons return to their original states, releasing the stored energy, which can manifest as heat or light.
+[Quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) can absorb various forms of energy, such as [photons](https://en.wikipedia.org/wiki/Photon) or [thermal energy](https://en.wikipedia.org/wiki/Thermal_energy). When they absorb this energy, their electrons transition to higher energy states. As these electrons revert to their original states, the stored energy is released either as photons (light) or as thermal energy (heat).
 
-## [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) as Magical "Batteries"
+## [Quantum Dots](https://en.wikipedia.org/wiki/Quantum_dot) as Magical Capacitors
 
 ### Ambient Recharging
 
-In this context, [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) serve as a sort of "battery" that can absorb ambient heat from the environment. These dots would continuously recharge by drawing in thermal energy, storing it until it's time to release it.
+In this context, quantum dots function like capacitors that can absorb ambient energy, such as light or heat, from their surroundings. These dots continually recharge by drawing in this energy, storing it for future use.
 
-## Cold Aura
+### Dark and Cold Aura
 
-Paradoxically, this leads to fire mages having a noticeably cold aura. The air around them would become cooler as the [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) draw in thermal energy from the environment.
+Quantum Dot mages always have a dark and cold aura around them, a result of the constant absorption of light and thermal energy by the quantum dots they control.
+
+### Energy Absorption Abilities
+
+Quantum Dot mages can use the absorption properties of the dots to create unique effects:
+
+- **Cold Zones**: By actively absorbing thermal energy from the surroundings, they can create areas of intense cold.
+- **Walls of Darkness**: By absorbing photons, they can create a wall or zone of darkness, effectively blocking out light.
 
 ### Power Scaling
 
-The power of a user is directly correlated to the number of [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) they can control. The more [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) a user has at their disposal, the more potent their ability to release stored energy, as they have more energy to draw upon.
+The potency of a mage is directly related to the number of [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) they can manipulate. The more quantum dots a mage controls, the greater their capacity to store and release energy.
 
 ## Practical Implications
 
-### Controlled Heat Generation
+### Controlled Energy Release
 
-Specific manipulations of the energy levels within the [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) allow for control over the timing and amount of heat generated. This means varying amounts of energy can be released, either in a burst or as a sustained output.
+Mages can manipulate the energy levels within the [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) to control the timing and magnitude of energy release. This allows for the emission of varying amounts of light or heat, either in bursts or as a continuous output.
 
 ### Directional Control
 
-With precise control over the [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot), energy can be released in specific directions. This allows for targeted energy release, useful in various applications requiring precise control.
+With meticulous control over the [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot), mages can direct the release of energy in specific directions. This is useful for applications requiring targeted energy release, such as illuminating a dark room or focusing heat on an object.
 
 ### Amplification
 
-[quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) can also amplify existing sources of heat or energy. By directing the dots to absorb energy from an existing source, the stored energy can be released in a more intense burst, effectively amplifying the energy.
-
+[Quantum dots](https://en.wikipedia.org/wiki/Quantum_dot) can also amplify existing sources of light or heat. By directing the dots to absorb energy from an existing source, the stored energy can be released in a more intense burst, effectively amplifying the energy.
 
 # Summary
-In conclusion, we can see that a mage specialising in Quantum Dot Manipulation would be more of a heat mage than a fire mage. Though they could still set things on fire if they had a fuel source.
+
+In conclusion, a mage specializing in Quantum Dot Manipulation would be a versatile energy mage, capable of manipulating both light and heat. Their abilities would extend beyond merely setting things on fire, offering a broader range of magical applications including the creation of cold zones and walls of darkness. The constant dark and cold aura surrounding these mages is a testament to their unique capabilities.
+
+
+# Pictured: A Quantum Dot Mage in combat stance, using light and darkness to dazzle and confuse their opponent.
+- NOTE: This is an artistic representation, this does not actually show what a realistic combat stance might look like as an entirely black and white canvas doesn't look good. In reality a QD Mage would completely obscure their opponents' vision.
+![[Quantum Dot Mage combat stance.png]]
