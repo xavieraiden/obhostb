@@ -1,18 +1,15 @@
 ---
 sticker: lucide//indent
+tags: Vedenia, WorldBuilding
 ---
-# This is an Index for all of the Vedenia world building
-### This is listed in historical order. The world was not created by me, I am simply expanding upon it.
+# This is an Index for all of my World building projects
 
-| Link                      | Additional Info                                                                      |
-| ------------------------- | ------------------------------------------------------------------------------------ |
-| [[Rock Samples]]          |                                                                                      |
-| [[Captain's Log]]         |                                                                                      |
-| [[Wreck Exploration Log]] |                                                                                      |
-| [[Wreck Analysis Log]]    |                                                                                      |
-| [[Wreck Imagery]]         | This contains Imagery from both [[Wreck Exploration Log]] and [[Wreck Analysis Log]] | 
-| [[Wreck Explosion]]       |                                                                                      |
-| [[Wreck Report]]          |                                                                                      |
+
+| Link              | Additional Info                                                |
+| ----------------- | -------------------------------------------------------------- |
+| [[Vedenia Index]] | Not mine, a friend made the world. I am just expanding upon it | 
+|                   |                                                                |
+
 
 # The series of Events
 ![[Series Of Events And Stuff.png]]

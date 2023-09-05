@@ -1,5 +1,5 @@
 ---
-tags: wreck, Vedenia
+tags: wreck, Vedenia, WorldBuilding
 ---
 Exploration Team Log Mission 
 Date: ██/██/44█

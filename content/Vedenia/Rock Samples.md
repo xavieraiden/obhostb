@@ -1,5 +1,5 @@
 ---
-tags: Vedenia
+tags: Vedenia, WorldBuilding
 ---
 Research Log - Enigmatic Metal Discovery Location: ██.67717°N ███.47569°W Date: ██/██/43█ Objective: Study and Understand the Properties of the Enigmatic Metal Research Team Members: ████████ ████████, ██████ ████████, ████████████, ████████ ███████, ███████████ ██████, ██████ █████████, ████████ █████████. Date: ██/██/43█ A significant discovery unfolded within our research team. An unidentified member stumbled upon a discoloured layer of rock emitting a faint, non-visible light with an energy level surpassing that of visible light. The samples of this peculiar rock were swiftly transported to a secure facility for extensive study. 
 

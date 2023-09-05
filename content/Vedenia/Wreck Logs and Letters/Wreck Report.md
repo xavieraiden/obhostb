@@ -1,5 +1,5 @@
 ---
-tags: wreck, Vedenia
+tags: wreck, Vedenia, WorldBuilding
 ---
 Subject: Analysis Log Conclusion - Enigmatic Wreck Exploration 
 Date: ██/██/44█

@@ -1,5 +1,5 @@
 ---
-tags: wreck, Vedenia
+tags: wreck, Vedenia, WorldBuilding
 ---
 Scholarly Analysis Log Date: ██/██/44█ Location: ██.7238°N ██.2662°E Objective: Analyse and Decipher the Enigmatic Wreck Research Team Members: █████ ██████, ██████ ██████, ██████ ██████, ██████ ██████, ██████ ██████, ██████ ██████, ██████ ██████. 
 

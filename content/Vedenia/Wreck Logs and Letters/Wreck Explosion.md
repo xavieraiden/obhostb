@@ -1,5 +1,5 @@
 ---
-tags: wreck, Vedenia
+tags: wreck, Vedenia, WorldBuilding
 ---
 Subject: Report - Catastrophic Explosion of the Enigmatic Wreck and Health Concerns Date: ██/██/44█ To Whomever It may Concern
 

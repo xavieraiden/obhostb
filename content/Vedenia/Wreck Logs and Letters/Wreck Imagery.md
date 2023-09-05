@@ -1,5 +1,5 @@
 ---
-tags: wreck, Vedenia
+tags: wreck, Vedenia, WorldBuilding
 ---
 - Note: All imagery provided are charcoal sketches made by either the captain and his crew, or the exploration team as there were no experienced painters on board either voyage.
 # Drawn by the Captain and his crew:
