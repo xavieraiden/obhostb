@@ -1,5 +1,6 @@
 ---
 tags: WorldBuilding, Magic
+sticker: lucide//wand
 ---
 This is more of a scaffold, I will go more into depth in how Quantum Dots are used as well as some of the gadgetry that Quantum Dot Mages use.
 
@@ -21,7 +22,7 @@ In this context, quantum dots function like capacitors that can absorb ambient e
 
 ### Dark and Cold Aura
 
-Quantum Dot mages always have a dark and cold aura around them, a result of the constant absorption of light and thermal energy by the quantum dots they control.
+Quantum Dot mages always have a [[Aura Message Log|dark and cold aura]] around them, a result of the constant absorption of light and thermal energy by the quantum dots they control.
 
 ### Energy Absorption Abilities
 
@@ -50,7 +51,7 @@ With meticulous control over the [quantum dots](https://en.wikipedia.org/wiki/Qu
 
 # Summary
 
-In conclusion, a mage specializing in Quantum Dot Manipulation would be a versatile energy mage, capable of manipulating both light and heat. Their abilities would extend beyond merely setting things on fire, offering a broader range of magical applications including the creation of cold zones and walls of darkness. The constant dark and cold aura surrounding these mages is a testament to their unique capabilities.
+In conclusion, a mage specializing in Quantum Dot Manipulation would be a versatile energy mage, capable of manipulating both light and heat. Their abilities would extend beyond merely setting things on fire, offering a broader range of magical applications including the creation of cold zones and walls of darkness. The constant dark and cold aura surrounding these mages is a testament to their unique capabilities. QD (Quantum Dot) Mages also have [[Chat logs about QD mages personality|A very interesting personality.]]
 
 
 # Pictured: A Quantum Dot Mage in combat stance, using light and darkness to dazzle and confuse their opponent.
