@@ -2,7 +2,6 @@
 tags: WorldBuilding, Magic
 sticker: lucide//wand
 ---
-This is more of a scaffold, I will go more into depth in how Quantum Dots are used as well as some of the gadgetry that Quantum Dot Mages use.
 
 ## What Exactly Are [Quantum Dots](https://en.wikipedia.org/wiki/Quantum_dot)?
 
