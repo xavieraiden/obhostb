@@ -18,3 +18,7 @@ Now, you might be thinking something along the lines of "But how will the LCMs k
 
 # Conclusion (TLDR)
 Composite Generational Machine Learning will allow for large changes to the model even late in its training by having a subset of each generation's population do more than just have changes meant for fine tuning.
+
+
+### Is it my idea? I have no damn clue!
+I am unsure if this is actually my original idea, maybe someone else has thought of or done this before, but as far as I am aware it is not in mainstream use as I have never seen it used anywhere.
