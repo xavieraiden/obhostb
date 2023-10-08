@@ -6,7 +6,7 @@ This magic system is based upon the manipulation of real scientific principles, 
 
 # As of now only one has been written.
 
-[[Quantum Dot Mages]] specialize in the manipulation of Quantum Dots, as the title suggests.
+[[Quantum Dot Mages]] specialize in the manipulation of [Quantum dots](https://en.wikipedia.org/wiki/Quantum_dot), as the title suggests.
 
 
 
