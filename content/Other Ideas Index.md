@@ -1,5 +1,6 @@
 ---
 sticker: lucide//indent
+tags: index
 ---
 # This is an index for all the other weird uncategorized ideas I have
 

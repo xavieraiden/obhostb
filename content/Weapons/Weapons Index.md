@@ -1,5 +1,5 @@
 ---
-tags: Weapons
+tags: Weapons, index
 sticker: lucide//indent
 ---
 # This is an index for all of my Weapons related stuff

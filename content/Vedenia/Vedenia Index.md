@@ -1,6 +1,6 @@
 ---
 sticker: lucide//indent
-tags: Vedenia, WorldBuilding
+tags: Vedenia, WorldBuilding, index
 ---
 # This is an Index for all of my Vedenia projects
 

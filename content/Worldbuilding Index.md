@@ -1,5 +1,6 @@
 ---
 sticker: lucide//list
+tags: WorldBuilding, index
 ---
 # This is an Index for all of my worldbuilding projects
 
