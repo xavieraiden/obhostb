@@ -17,4 +17,4 @@ Let's say we're training a [machine learning model to drive cars in a racing gam
 Now, you might be thinking something along the lines of "But how will the LCMs keep up with the FTMs? Sure they might discover something new, but without practice they will be slower anyway!" This is where something I will call "Generational Persistence" will kick in. Effectively guaranteeing that some practice will be had with these drastic changes by forcing these MCMs and LCMs to persist for several generations even if they don't do well. Then, if they still fail after further training we can safely remove them.
 
 # Conclusion (TLDR)
-Composite Generational Machine Learning will allow for large changes to the model even late in it's training by having a subset of each generation's population do more than just have changes meant for fine tuning.
+Composite Generational Machine Learning will allow for large changes to the model even late in its training by having a subset of each generation's population do more than just have changes meant for fine tuning.
