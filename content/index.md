@@ -9,5 +9,6 @@ Any text that looks like [This](https://www.merriam-webster.com/dictionary/examp
 | ------------------------------ | ------------------------------------------ |
 | [Who made this?](Who%20Am%20I) | Stuff about the author of all this.        |
 | [[Weapons Index]]              | Stuff I wrote about various weapon systems |
-| [[Worldbuilding Index]]              | Stuff about my Worldbuilding               | 
+| [[Worldbuilding Index]]        | Stuff about my Worldbuilding               |
+| [[Other Ideas Index]]            | Stuff about random ideas I've had          | 
 
